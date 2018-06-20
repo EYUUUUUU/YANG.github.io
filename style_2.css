@@ -1,0 +1,46 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-size: 15px;
+}
+#tittle{
+    display: block;
+    float: left;
+    width: 15%;
+    height: 1000px;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 25px;
+    color: aliceblue;
+    background-color: aquamarine;
+}
+#texts{
+    float: center;
+}
+#part1,#part2,#part3,#part4,#part5{
+    padding-top: 10px;
+}
+.h1{
+    font-weight: bold;
+    font-size: 20px;
+    padding:20px 0px 10px 0px;
+}
+.-a{
+    display: block;
+    width: 20%;
+    float: left;
+    padding-right: -50px;
+}
+.label{
+    float: left;
+    font-weight: bold;
+}
+.-b{  
+    display: block;
+    width: 20%;
+    float: left;  
+ }
+ .plus{
+    margin-bottom: 5px;
+     font-weight: bold;
+ }
